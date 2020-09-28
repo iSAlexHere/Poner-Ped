@@ -1,4 +1,10 @@
 # Reventaos_PEDS
+
+Script Necesario Para Que Funcione.
+Mythic_Notify
+https://github.com/wowpanda/mythic_notify
+
+
 This script made by reventaos
 
 Discord Server: https://discord.reventaos.es/
